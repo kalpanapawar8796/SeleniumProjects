@@ -1,0 +1,191 @@
+15:41:59,512 DEBUG devpinoyLogger<strong>{1}</strong>:37 - opening webiste
+15:45:10,901 DEBUG devpinoyLogger<strong>{1}</strong>:37 - opening webiste
+15:46:23,718 DEBUG devpinoyLogger<strong>{1}</strong>:37 - opening webiste
+15:48:52,183 DEBUG devpinoyLogger<strong>{1}</strong>:37 - opening webiste
+15:50:44,197 DEBUG devpinoyLogger<strong>{1}</strong>:50 - opening webiste
+15:50:46,720 DEBUG devpinoyLogger<strong>{1}</strong>:59 - Entered username asAdmin
+15:50:47,204 DEBUG devpinoyLogger<strong>{1}</strong>:61 - Entered password asadmin123
+15:50:55,127 DEBUG devpinoyLogger<strong>{1}</strong>:63 - Clicked on Login button
+15:50:55,755 DEBUG devpinoyLogger<strong>{1}</strong>:67 - User Admin logged in successfully
+15:50:56,222 DEBUG devpinoyLogger<strong>{1}</strong>:76 - mouse hover on admin menu
+15:51:00,167 DEBUG devpinoyLogger<strong>{1}</strong>:78 - Clicked on nationalities submenu
+15:51:00,194  INFO devpinoyLogger<strong>{1}</strong>:81 - Nationality page is opened
+16:33:48,549 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+16:33:50,325 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+16:33:50,645 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+16:34:07,348 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+16:34:07,515 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+16:34:07,861 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+16:34:13,097 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+16:34:13,129  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+16:34:13,583 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+16:34:14,029 DEBUG devpinoyLogger<strong>{1}</strong>:101 - entered nationality name
+16:34:17,097 DEBUG devpinoyLogger<strong>{1}</strong>:103 - Clicked on save button
+16:34:17,575 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+16:36:26,096 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+16:36:28,460 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+16:36:28,936 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+16:36:38,967 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+16:36:39,160 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+16:36:39,539 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+16:36:43,792 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+16:36:43,821  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+16:36:44,275 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+16:36:44,712 DEBUG devpinoyLogger<strong>{1}</strong>:101 - entered nationality name
+16:36:45,000 DEBUG devpinoyLogger<strong>{1}</strong>:103 - Clicked on save button
+16:46:58,747 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+16:47:00,480 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+16:47:00,846 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+16:47:07,415 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+16:47:07,587 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+16:47:07,941 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+16:47:10,482 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+16:47:10,523  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+16:47:10,876 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+16:47:11,430  WARN devpinoyLogger<strong>{1}</strong>:111 - Name already exist
+12:23:42,288 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+12:23:46,110 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+12:23:46,633 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+12:24:08,839 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+12:24:09,209 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+12:24:09,590 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+12:24:32,371 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+12:24:32,446  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+12:24:33,371 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+12:24:35,510 DEBUG devpinoyLogger<strong>{1}</strong>:102 - entered nationality name
+12:24:51,395 DEBUG devpinoyLogger<strong>{1}</strong>:104 - Clicked on save button
+12:24:51,831 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+12:24:53,236 DEBUG devpinoyLogger<strong>{1}</strong>:120 - Performed delete functionality
+12:27:57,974 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+12:27:59,876 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+12:28:00,246 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+12:28:23,379 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+12:28:23,583 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+12:28:23,931 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+12:28:35,668 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+12:28:35,708  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+12:28:36,229 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+12:28:36,819  WARN devpinoyLogger<strong>{1}</strong>:109 - Name already exist
+12:30:53,323 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+12:30:55,944 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+12:30:56,367 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+12:31:46,015 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+12:31:46,205 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+12:31:46,607 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+12:32:09,379 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+12:32:09,457  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+12:32:09,951 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+12:32:11,072 DEBUG devpinoyLogger<strong>{1}</strong>:102 - entered nationality name
+12:32:17,843 DEBUG devpinoyLogger<strong>{1}</strong>:104 - Clicked on save button
+12:32:18,359 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+12:32:19,557 DEBUG devpinoyLogger<strong>{1}</strong>:120 - Performed delete functionality
+12:35:35,173 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+12:35:37,441 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+12:35:37,964 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+12:36:17,729 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+12:36:17,887 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+12:36:18,250 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+12:36:52,383 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+12:36:52,417  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+12:36:52,898 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+12:36:53,425  WARN devpinoyLogger<strong>{1}</strong>:109 - Name already exist
+12:37:36,312 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+12:37:38,471 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+12:37:38,914 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+12:37:50,474 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+12:37:50,709 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+12:37:51,077 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+12:37:54,369 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+12:37:54,417  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+12:37:54,822 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+12:37:55,323  WARN devpinoyLogger<strong>{1}</strong>:109 - Name already exist
+13:02:37,896 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+13:02:40,378 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+13:02:40,793 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+13:03:29,158 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+13:03:29,328 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+13:03:29,730 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+13:04:06,578 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+13:04:06,612  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+13:04:07,162 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+13:04:07,660  WARN devpinoyLogger<strong>{1}</strong>:109 - Name already exist
+13:07:25,526 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+13:07:28,103 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+13:07:28,573 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+13:08:08,087 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+13:08:08,299 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+13:08:08,695 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+13:08:34,782 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+13:08:34,839  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+13:08:35,576 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+13:08:36,145  WARN devpinoyLogger<strong>{1}</strong>:109 - Name already exist
+13:18:51,249 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+13:18:53,550 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+13:18:53,995 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+13:19:20,858 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+13:19:21,091 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+13:19:21,463 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+13:19:30,893 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+13:19:30,924  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+13:19:31,414 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+13:19:32,376 DEBUG devpinoyLogger<strong>{1}</strong>:102 - entered nationality name
+13:19:59,597 DEBUG devpinoyLogger<strong>{1}</strong>:104 - Clicked on save button
+13:20:00,020 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+13:20:00,585  INFO devpinoyLogger<strong>{1}</strong>:119 - Delete entered nationality
+13:20:06,843 DEBUG devpinoyLogger<strong>{1}</strong>:121 - Performed delete functionality
+13:20:07,355 DEBUG devpinoyLogger<strong>{1}</strong>:123 - Nationality deleted successfully
+13:21:40,362 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+13:21:42,749 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+13:21:43,187 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+13:22:26,309 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+13:22:26,488 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+13:22:26,845 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+13:22:43,032 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+13:22:43,063  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+13:22:43,533 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+13:22:44,448 DEBUG devpinoyLogger<strong>{1}</strong>:102 - entered nationality name
+13:22:55,472 DEBUG devpinoyLogger<strong>{1}</strong>:104 - Clicked on save button
+13:22:55,890 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+13:22:56,448  INFO devpinoyLogger<strong>{1}</strong>:119 - Delete entered nationality
+13:23:06,758 DEBUG devpinoyLogger<strong>{1}</strong>:121 - Performed delete functionality
+13:23:07,154 DEBUG devpinoyLogger<strong>{1}</strong>:123 - Nationality deleted successfully
+14:22:06,816 DEBUG devpinoyLogger<strong>{1}</strong>:55 - opening webiste
+14:22:10,920 DEBUG devpinoyLogger<strong>{1}</strong>:62 - Entered username asAdmin
+14:22:11,396 DEBUG devpinoyLogger<strong>{1}</strong>:64 - Entered password asadmin123
+14:22:57,799 DEBUG devpinoyLogger<strong>{1}</strong>:66 - Clicked on Login button
+14:23:06,206 DEBUG devpinoyLogger<strong>{1}</strong>:70 - User Admin logged in successfully
+14:23:43,335 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+14:23:44,049 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+14:23:44,587 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+14:24:12,532 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+14:24:12,716 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+14:24:13,099 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+14:24:16,700 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+14:24:16,765  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+14:24:17,194 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+14:24:18,016 DEBUG devpinoyLogger<strong>{1}</strong>:102 - entered nationality name
+14:24:29,583 DEBUG devpinoyLogger<strong>{1}</strong>:104 - Clicked on save button
+14:24:30,040 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+14:24:30,661  INFO devpinoyLogger<strong>{1}</strong>:119 - Delete entered nationality
+14:24:43,833 DEBUG devpinoyLogger<strong>{1}</strong>:121 - Performed delete functionality
+14:24:44,283 DEBUG devpinoyLogger<strong>{1}</strong>:123 - Nationality deleted successfully
+13:32:04,630 DEBUG devpinoyLogger<strong>{1}</strong>:55 - opening webiste
+13:32:08,810 DEBUG devpinoyLogger<strong>{1}</strong>:62 - Entered username asAdmin
+13:32:09,249 DEBUG devpinoyLogger<strong>{1}</strong>:64 - Entered password asadmin123
+13:32:45,842 DEBUG devpinoyLogger<strong>{1}</strong>:66 - Clicked on Login button
+13:32:46,083 DEBUG devpinoyLogger<strong>{1}</strong>:70 - User Admin logged in successfully
+13:33:13,074 DEBUG devpinoyLogger<strong>{1}</strong>:60 - opening webiste
+13:33:14,052 DEBUG devpinoyLogger<strong>{1}</strong>:69 - Entered username asAdmin
+13:33:14,707 DEBUG devpinoyLogger<strong>{1}</strong>:71 - Entered password asadmin123
+13:33:46,701 DEBUG devpinoyLogger<strong>{1}</strong>:73 - Clicked on Login button
+13:33:46,903 DEBUG devpinoyLogger<strong>{1}</strong>:77 - User Admin logged in successfully
+13:33:47,290 DEBUG devpinoyLogger<strong>{1}</strong>:86 - mouse hover on admin menu
+13:34:00,743 DEBUG devpinoyLogger<strong>{1}</strong>:88 - Clicked on nationalities submenu
+13:34:00,817  INFO devpinoyLogger<strong>{1}</strong>:91 - Nationality page is opened
+13:34:01,360 DEBUG devpinoyLogger<strong>{1}</strong>:99 - Clicked on add button
+13:34:02,792 DEBUG devpinoyLogger<strong>{1}</strong>:102 - entered nationality name
+13:34:09,300 DEBUG devpinoyLogger<strong>{1}</strong>:104 - Clicked on save button
+13:34:09,766 DEBUG devpinoyLogger<strong>{1}</strong>:106 - Saved successfully
+13:34:10,357  INFO devpinoyLogger<strong>{1}</strong>:119 - Delete entered nationality
+13:34:19,719 DEBUG devpinoyLogger<strong>{1}</strong>:121 - Performed delete functionality
+13:34:20,153 DEBUG devpinoyLogger<strong>{1}</strong>:123 - Nationality deleted successfully

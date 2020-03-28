@@ -1,0 +1,15 @@
+27/03/2020 13:33:13 devpinoyLogger opening webiste
+27/03/2020 13:33:14 devpinoyLogger Entered username asAdmin
+27/03/2020 13:33:14 devpinoyLogger Entered password asadmin123
+27/03/2020 13:33:46 devpinoyLogger Clicked on Login button
+27/03/2020 13:33:46 devpinoyLogger User Admin logged in successfully
+27/03/2020 13:33:47 devpinoyLogger mouse hover on admin menu
+27/03/2020 13:34:00 devpinoyLogger Clicked on nationalities submenu
+27/03/2020 13:34:00 devpinoyLogger Nationality page is opened
+27/03/2020 13:34:01 devpinoyLogger Clicked on add button
+27/03/2020 13:34:02 devpinoyLogger entered nationality name
+27/03/2020 13:34:09 devpinoyLogger Clicked on save button
+27/03/2020 13:34:09 devpinoyLogger Saved successfully
+27/03/2020 13:34:10 devpinoyLogger Delete entered nationality
+27/03/2020 13:34:19 devpinoyLogger Performed delete functionality
+27/03/2020 13:34:20 devpinoyLogger Nationality deleted successfully
